@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-df = pd.read_csv("day.csv")
+df = pd.read_csv("dashboard/day.csv")
 
 # Konversi kolom 'dteday' menjadi format datetime
 df['dteday'] = pd.to_datetime(df['dteday'])
