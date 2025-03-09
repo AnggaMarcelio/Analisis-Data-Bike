@@ -2,7 +2,7 @@
 
 Ini adalah proyek akhir dari kursus "Belajar Analisis Data Dengan Python" di Dicoding, yang bertujuan untuk melakukan analisis dan membuat dashboard menggunakan dataset bike sharing.
 
-Dalam file notebook, saya telah menyertakan langkah-langkah yang saya lakukan mulai dari Data Wrangling, Exploratory Data Analysis (EDA), hingga Visualisasi Data. Selain itu, saya juga membuat dashboard menggunakan Streamlit, yang dapat di lihat dengan mengklik tautan di sidebar kanan atau melalui tautan berikut ini : https://dashboardbikeday.streamlit.app/
+Dalam file notebook, saya telah menyertakan langkah-langkah yang saya lakukan mulai dari Data Wrangling, Exploratory Data Analysis (EDA), hingga Visualisasi Data. Selain itu, saya juga membuat dashboard menggunakan Streamlit, yang dapat di lihat dengan mengklik tautan melalui tautan berikut ini : https://dashboardbikeday.streamlit.app/
 
 ## 1. File Structures
 ```
