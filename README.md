@@ -36,16 +36,22 @@ Dalam file notebook, saya telah menyertakan langkah-langkah yang saya lakukan mu
 4. Buka VSCode, lalu jalankan file tersebut dengan membuka terminal dan mengetik perintah: streamlit run dashboard.py
 
 ### Setup Environment - Anaconda
+```
 conda create --name main-ds python=3.9
 conda activate main-ds
 pip install -r requirements.txt
+```
 
 ### Setup Environment - Shell/Terminal
+```
 mkdir analisis_data_bike
 cd analisis_data_bike
 pipenv install
 pipenv shell
 pip install -r requirements.txt
+```
 
 ### Run steamlit app
+```
 streamlit run dashboard.py
+```
